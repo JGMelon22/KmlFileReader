@@ -1,0 +1,17 @@
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/bin/Debug/net8.0/HelloKmlSharp
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/bin/Debug/net8.0/HelloKmlSharp.deps.json
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/bin/Debug/net8.0/HelloKmlSharp.runtimeconfig.json
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/bin/Debug/net8.0/HelloKmlSharp.dll
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/bin/Debug/net8.0/HelloKmlSharp.pdb
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/bin/Debug/net8.0/SharpKml.Core.dll
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.csproj.AssemblyReference.cache
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.AssemblyInfoInputs.cache
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.AssemblyInfo.cs
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.csproj.CoreCompileInputs.cache
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKml.9FDE108F.Up2Date
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.dll
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/refint/HelloKmlSharp.dll
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.pdb
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/HelloKmlSharp.genruntimeconfig.cache
+/home/joaog/Documents/TempCodes/CSharpBasics/HelloKmlSharp/HelloKmlSharp/obj/Debug/net8.0/ref/HelloKmlSharp.dll

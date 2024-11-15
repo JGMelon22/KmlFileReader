@@ -59,10 +59,18 @@ public class KmlFileReaderService
 
                 if (isClienteMatch || isSituacaoMatch || isBairroMatch || isReferenciaMatch || isRuaCruzamentoMatch)
                 {
+
+                    XElement xmlElement = new XElement("ExtendedData");
+
                     foreach (Data data in extendedData.Data)
                     {
-                        Console.WriteLine($"{data.Name}: {data.Value}");
+                        string sanitizedName = SanitizedXmlName(data.Name);
+                        xmlElement.Add(new XElement(sanitizedName, data.Value));
                     }
+
+                    XDocument formmatedXml = new XDocument(xmlElement);
+
+                    Console.WriteLine(formmatedXml.ToString());
                 }
             }
         }
@@ -72,4 +80,7 @@ public class KmlFileReaderService
         => extendedData.Data
             .FirstOrDefault(x => x.Name.Equals(name, StringComparison.OrdinalIgnoreCase))
             ?.Value!;
+
+    private string SanitizedXmlName(string name)
+        => name.Replace('/', '_');
 }

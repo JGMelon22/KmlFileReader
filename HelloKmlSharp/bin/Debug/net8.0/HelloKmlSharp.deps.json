@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HelloKmlSharp/1.0.0": {
+        "dependencies": {
+          "SharpKml.Core": "6.1.0"
+        },
+        "runtime": {
+          "HelloKmlSharp.dll": {}
+        }
+      },
+      "SharpKml.Core/6.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/SharpKml.Core.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloKmlSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpKml.Core/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ABDgy0Qy1kJzmNDayz3nDu7/a97ENiLRidLPDKM5VcG/isyaSDfI8aoD9vXmEkzpKKBKvxkYkH7gYqhW/e6Vgg==",
+      "path": "sharpkml.core/6.1.0",
+      "hashPath": "sharpkml.core.6.1.0.nupkg.sha512"
+    }
+  }
+}
