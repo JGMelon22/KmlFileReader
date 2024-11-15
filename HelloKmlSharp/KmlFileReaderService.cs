@@ -1,4 +1,3 @@
-using System.Xml;
 using System.Xml.Linq;
 using SharpKml.Dom;
 using SharpKml.Engine;

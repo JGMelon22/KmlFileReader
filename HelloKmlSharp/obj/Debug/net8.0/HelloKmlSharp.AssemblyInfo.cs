@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloKmlSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e806d6d2f62017e577798f08205e0e04ab78cbc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd04fca3277cb965ecccfe0b1bf8a4cccfb0c28b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloKmlSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloKmlSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
